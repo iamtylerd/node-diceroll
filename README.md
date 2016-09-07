@@ -5,6 +5,9 @@
 ** Things you need **
  * npm install
 
+#### Can pass any number as an argument
+
+
 run bin/diceroll = 1 6 side die
 
 
